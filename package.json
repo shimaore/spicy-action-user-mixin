@@ -1,6 +1,6 @@
 {
   "name": "spicy-action-user-mixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mixin for spicy-action-user",
   "main": "index.js",
   "scripts": {
